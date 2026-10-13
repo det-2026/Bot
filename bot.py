@@ -5,8 +5,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Apna Telegram Bot Token yahan daalein
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789  # Apna Telegram User ID yahan daalein (admin ke liye)
+TOKEN = "8500116657:AAH8jJWprCxZw4Rbft5iy9yBUQ3VXNVbFPA"
+ADMIN_ID = 8270379920  # Apna Telegram User ID yahan daalein (admin ke liye)
 
 # Database Setup
 def init_db():
